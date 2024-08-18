@@ -10,8 +10,8 @@ There is a migration just update it in database firstly.Then just run.
 
 # Default User Accounts for Testing
 # Admin
-- Username:admin
-- Password:123456
+- Username: admin
+- Password: 123456
 
 # Features
 
