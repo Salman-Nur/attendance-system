@@ -1,0 +1,7 @@
+﻿
+
+dotnet ef migrations add Tables --project AttendanceSystem --context AttendanceDbContext
+
+dotnet ef database update --project AttendanceSystem --context AttendanceDbContext
+
+dotnet ef migrations remove --project AttendanceSystem --context AttendanceDbContext
