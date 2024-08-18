@@ -41,6 +41,4 @@ Login to the system and mark attendance for courses they are enrolled in
 Attendance can only be marked during scheduled class times
 
 # Technology Stack
-Programming Languag : C#
-Framework: .NET with Entity Framework
-Database: SQL Server for data persistence
+C#, .NET with Entity Framework, SQL Server for data persistence
