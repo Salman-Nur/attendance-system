@@ -15,30 +15,30 @@ There is a migration just update it in database firstly.Then just run.
 
 # Features
 
-# Admin
-
 # User Management:
-Create Teachers (Name, Username, Password)
-Create Students (Name, Username, Password)
+1.Create Teachers (Name, Username, Password)
+2.Create Students (Name, Username, Password)
 
 # Course Management:
-Create and manage Courses (Course Name, Fees)
-Assign Teachers to Courses
-Enroll Students in Courses
+1.Create and manage Courses (Course Name, Fees)
+2.Assign Teachers to Courses
+3.Enroll Students in Courses
 
 # Class Scheduling:
-Set and manage Class Schedules for each course
-Schedule consists of day, time, and total number of classes (e.g., Sunday 8PM-10PM, 20 Classes)
+1.Set and manage Class Schedules for each course
+2.Schedule consists of day, time, and total number of classes (e.g., Sunday 8PM-10PM, 20 Classes)
 Teacher
 
 # Attendance Reporting:
-View attendance reports for courses they are assigned to
-Reports include Student names and their attendance status (Present or Absent) for each class
+1.View attendance reports for courses they are assigned to
+2.Reports include Student names and their attendance status (Present or Absent) for each class
 Student
 
 # Attendance Management:
-Login to the system and mark attendance for courses they are enrolled in
-Attendance can only be marked during scheduled class times
+1.Login to the system and mark attendance for courses they are enrolled in
+2.Attendance can only be marked during scheduled class times
 
 # Technology Stack
-C#, .NET with Entity Framework, SQL Server for data persistence
+1. C#
+2. .NET with Entity Framework
+3. SQL Server for data persistence
